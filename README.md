@@ -7,8 +7,10 @@ Results-driven Data Analyst / Power BI Developer with 3+ years of experience in 
 🌐 **Portfolio Website:**  
 https://jaffer-hussain.github.io
 
-📄 **Download Resume:**  
-https://jaffer-hussain.github.io/assets/Jaffer_Resume.pdf
+## 📄 My Resume
+
+[![View Resume](https://img.shields.io/badge/View-Resume-blue)](https://jaffer-hussain.github.io/assets/Jaffer_Resume.pdf)
+
 
 ---
 
