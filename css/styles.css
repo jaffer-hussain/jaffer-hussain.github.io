@@ -10978,3 +10978,52 @@ section.resume-section .resume-section-content {
 .card:hover {
   transform: translateY(-5px);
 }
+/* ========== Mobile Responsive Fixes ========== */
+@media (max-width: 768px) {
+
+  body {
+    padding-left: 0 !important;
+  }
+
+  #sideNav {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+
+  .resume-section {
+    padding: 3rem 1rem !important;
+  }
+
+  .resume-section-content h1 {
+    font-size: 2.2rem;
+    text-align: center;
+  }
+
+  .resume-section-content h2 {
+    text-align: center;
+  }
+
+  .img-profile {
+    max-width: 150px;
+    max-height: 150px;
+  }
+
+  .social-icons {
+    text-align: center;
+  }
+
+  .btn-lg {
+    width: 100%;
+  }
+
+  .card {
+    margin-bottom: 1rem;
+  }
+}
+@media (max-width: 768px) {
+  #about {
+    text-align: center;
+  }
+}
+
