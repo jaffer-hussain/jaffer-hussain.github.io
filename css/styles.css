@@ -11039,4 +11039,22 @@ section.resume-section .resume-section-content {
     display: block !important;
   }
 }
+/* ===== Mobile header spacing fix ===== */
+@media (max-width: 768px) {
+
+  #sideNav {
+    position: relative;
+    height: auto;
+    padding: 0.5rem 1rem;
+  }
+
+  body {
+    padding-top: 0 !important;
+  }
+
+  .resume-section {
+    padding-top: 2rem !important;
+  }
+}
+
 
